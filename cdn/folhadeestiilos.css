@@ -68,7 +68,7 @@ html {
 .main_pd {
     background-color: #217178;
     color: white;
-    background-image: url(../Img/dinheiro1.jpg);
+    background-image: url(./img/dinheiro1.jpg);
     background-size: 100%;
     width: 100%;
     background-repeat: no-repeat;
@@ -154,7 +154,7 @@ html {
     flex-wrap: wrap;
     padding-bottom: 10px;
     justify-content: space-around;
-    background-image: url(../Img/back.jpg);
+    background-image: url(./img/back.jpg);
     background-size: 100%;
     width: 100%;
     background-repeat: no-repeat;
